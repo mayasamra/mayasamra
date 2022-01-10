@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mayasamra/mayasamra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Maya Samra, and I'm a first-year computer science student at Carleton University.
