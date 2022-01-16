@@ -5,6 +5,6 @@ I'm using GitHub as a tool to expand my programming capabilities and to practice
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning: CSS, HTML, and JavaScript
-- 🌱 In the future, I plan on learning: C/C++ and C#
+- ➡️In the future, I plan on learning: C/C++ and C#
 - ⚡ Fun fact: I am a huge fan of mathematics!
 
